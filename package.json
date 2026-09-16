@@ -17,19 +17,16 @@
     "@codemirror/view": "^6.36.2",
     "@nuxtjs/tailwindcss": "^6.14.0",
     "@pinia/nuxt": "^1.0.2",
-    "@vueuse/core": "^12.5.0",
-    "@vueuse/nuxt": "^12.5.0",
+    "@vueuse/core": "^12.8.2",
+    "@vueuse/nuxt": "^12.8.2",
     "codemirror": "^6.0.1",
     "lucide-vue-next": "^0.475.0",
     "nuxt": "^4.5.2",
-    "pinia": "^4.0.3",
-    "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
+    "pinia": "^4.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.5.1",
-    "tailwindcss": "^3.4.17",
-    "typescript": "^5.7.3"
+    "tailwindcss": "^3.4.17"
   }
 }
